@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msweppy
-- 👀 I’m interested in ...Python, Java, Machine Learning , Cloud Computing 
+- 👀 I’m interested in ...Java Coding, Database Adminstration, and Cloud Computing. 
 - 🌱 I’m currently learning ... Python Coding.
 - 💞️ I’m looking to collaborate on ... Simple Projects for now
 - 📫 How to reach me ... SweppyRmichael@gmail.com 
